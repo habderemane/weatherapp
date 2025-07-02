@@ -49,10 +49,10 @@ des données météo en temps réel de manière intuitive et interactive.
 
 1. **Clonez ce dépôt :**
    ```bash
-   git clone https://github.com/Siam5818/ClimaTrack.git
+   git clone https://github.com/habderemane/weatherapp.git
 2. **Accédez au répertoire du projet :**
    ```bash
-   cd ClimaTrack
+   cd weatherapp
 3. **Installez les dépendances :**
    ```bash
    flutter pub get
@@ -64,4 +64,4 @@ des données météo en temps réel de manière intuitive et interactive.
 ---
 
 ## Remerciements ❤️
-Merci d'avoir utilisé Climatrack ! N'hésitez pas à proposer des idées ou à contribuer au projet.
+Merci d'avoir utilisé weatherapp ! N'hésitez pas à proposer des idées ou à contribuer au projet.
